@@ -24,7 +24,7 @@ uint32_t n;
 
 int main(int argc, char* argv[]) {
 	if (argc != 3) { // 인자 개수 확인하기 
-		printf("plz input 2 argv files to add (add-ndo a.bin b.bin)\n")
+		printf("plz input 2 argv files to add (add-ndo a.bin b.bin)\n");
 		exit(EXIT_FAILURE);
 	}
 
